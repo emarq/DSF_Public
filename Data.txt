@@ -1,0 +1,25 @@
+Datasets are too big. Available for download from : https://marquislab.engin.umich.edu/publications/ 
+
+
+====================================
+EightPct_DatasetForClusterAnalysis dataset
+====================================
+(1) This synthetic dataset is presented in figure 1(a) of 
+Ghamarian, Yu & Marquis, Morphological classification 
+of dense objects in atom probe tomography data, Ultramicroscopy, 2020. 
+
+(2) Copper has the tendecy of forming dense objects (mass to charge ratio of 62.9-63.1 and 64.9-65.1)
+For the identification of the dense objects in this dataset set the MinClusterSize and MinSamples values to 50 and 20, respectively.  
+The value of the probability threshold should be set to 0.9. 
+
+
+====================================
+R94_10476-v03 dataset
+====================================
+(1) This is a real dataset which is presented in figure 1(b) of 
+Ghamarian, Yu & Marquis, Morphological classification 
+of dense objects in atom probe tomography data, Ultramicroscopy, 2020. 
+
+(2) Silicon has the tendecy of forming dense objects (mass to charge ratio of 13.9-14.2, 14.4-14.6 and 14.9,15.1)
+For the identification of the dense objects in this dataset set the MinClusterSize and MinSamples values to 25 and 15, respectively.  
+The value of the probability threshold should be set to 0.9.
